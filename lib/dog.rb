@@ -3,5 +3,4 @@ class Dog
     @breed = "mutt"
   end
   
-  attr_accessor :name
 end
